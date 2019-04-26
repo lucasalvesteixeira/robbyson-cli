@@ -1,0 +1,29 @@
+{
+    "name": "robbyson-cli",
+    "version": "0.2.1",
+    "description": "CLI for new Service Robbyson projects",
+    "author": "Lucas Alves Teixeira <lucasalvesteixeira@gmail.com>",
+    "keywords": [
+        "robbyson-cli",
+        "robbyson",
+        "cli"
+    ],
+    "license": "MIT",
+    "bin": {
+        "robbyson-cli": "./bin/main.js"
+    },
+    "dependencies": {
+        "minimist": "^1.2.0"
+    },
+    "deprecated": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lucasalvesteixeira/robbyson-cli"
+    },
+    "bugs": {
+        "url": "https://github.com/lucasalvesteixeira/robbyson-cli/issues"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    }
+}
