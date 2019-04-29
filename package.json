@@ -1,6 +1,6 @@
 {
     "name": "robbyson-cli",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "CLI for new Service Robbyson projects",
     "author": "Lucas Alves Teixeira <lucasalvesteixeira@gmail.com>",
     "keywords": [
